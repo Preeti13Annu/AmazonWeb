@@ -1,0 +1,2 @@
+# AmazonWeb
+front web page
